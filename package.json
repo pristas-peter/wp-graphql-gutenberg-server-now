@@ -1,0 +1,14 @@
+{
+  "name": "wp-graphql-gutenberg-server-now",
+  "description": "GraphQL Gutenberg Server Now",
+  "version": "0.2.0",
+  "main": "src/index.js",
+  "repository": "git@github.com:pristas-peter/wp-graphql-gutenberg-server-now.git",
+  "author": "Peter Pristas <pristas.peter@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-aws-lambda": "^2.1.1",
+    "puppeteer-core": "^2.1.1",
+    "wp-graphql-gutenberg-server-core": "^0.2.0"
+  }
+}
